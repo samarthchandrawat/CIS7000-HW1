@@ -1,0 +1,8 @@
+get luck potion
+sip luck potion
+North to Ollivanders
+get wand
+East to Quidditch Stadium
+get broom
+Up to Great hall
+Avada Kedavra
