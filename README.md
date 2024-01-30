@@ -1,5 +1,8 @@
 # Harry Potter and the Prisoner of UPENN
+Github Link: https://github.com/samarthchandrawat/CIS7000-HW1
+
 Welcome to the magical world of Hogwarts! In this text adventure game, you'll step into the shoes of the legendary Harry Potter, who has successfully destroyed all the horcruxes and is now on a mission to vanquish the Dark Lord, Voldemort, once and for all. However, Harry's luck isn't at its peak, and he must get rid of his bad luck before he confront Lord Voldemort!
+
 
 ## Gryffindor Tower:
 Starting point for Harry.
